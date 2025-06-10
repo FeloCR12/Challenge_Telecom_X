@@ -14,9 +14,9 @@ Se va a recopilar, procesar y analizar los datos, utilizando Python y sus princi
 
 ✅ Realizar un Análisis Exploratorio de Datos (EDA) y generar un informe con insights relevantes.
 
-#**Infrome Final del Análisis**
+# **Infrome Final del Análisis**
 
-##**Introducción**
+## **Introducción**
 
 Para una organización comercial, los clientes representan un componente fundamental de su dinámica. Por ello, los equipos de estrategia constantemente desarrollan iniciativas y campañas orientadas tanto a la atracción de nuevos clientes como a la retención del portafolio actual.
 
@@ -29,7 +29,7 @@ La compañía TELECOM X no es la excepción. Por ello, a través del análisis d
 ---
 
 
-##**Limpieza y Tratamiento de Datos**
+## **Limpieza y Tratamiento de Datos**
 
 Para realizar el análisis de la información, se llevó a cabo una serie de pasos que se detallan a continuación:
 
@@ -54,7 +54,7 @@ Para realizar el análisis de la información, se llevó a cabo una serie de pas
 ---
 
 
-##**Análisis Exploratorio de Datos**
+## **Análisis Exploratorio de Datos**
 
 Una vez estructurada la información, se procedió a realizar algunas estimaciones que permitieran al equipo identificar patrones de comportamiento entre los clientes. Entre los principales hallazgos se destacan los siguientes:
 
@@ -77,7 +77,7 @@ Una vez estructurada la información, se procedió a realizar algunas estimacion
 ---
 
 
-##**Conclusiones**
+## **Conclusiones**
 
 
 A partir del análisis cruzado de las variables y sus correlaciones, fue posible identificar los siguientes hallazgos relevantes:
@@ -95,7 +95,7 @@ A partir del análisis cruzado de las variables y sus correlaciones, fue posible
 ---
 
 
-##**Recomendaciones**
+## **Recomendaciones**
 
 Con base en los resultados del análisis, se proponen las siguientes acciones para mejorar la retención de clientes en la compañía TELECOM X:
 
