@@ -14,7 +14,7 @@ Se va a recopilar, procesar y analizar los datos, utilizando Python y sus princi
 
 ✅ Realizar un Análisis Exploratorio de Datos (EDA) y generar un informe con insights relevantes.
 
-# **Infrome Final del Análisis**
+# **Informe Final del Análisis**
 
 ## **Introducción**
 
